@@ -1,4 +1,4 @@
-# Python Code Analyzer
+# Code Analyzer
 
 A dynamic analysis tool for Python test code that provides real-time performance insights and optimization suggestions. The tool helps developers identify performance bottlenecks, memory issues, and optimization opportunities in their test code.
 
